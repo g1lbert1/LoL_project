@@ -11,7 +11,7 @@ import math
 
 # --- CONFIGURATION ---
 # IMPORTANT: Replace with your actual Riot API Key
-API_KEY = "RGAPI-95dcc951-82b6-4c47-9960-18cb6ed6e85a"
+API_KEY = "MY_KEY"
 
 # API Regions
 match_region_url = "https://americas.api.riotgames.com"  # For match data
